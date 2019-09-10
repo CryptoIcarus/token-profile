@@ -1,0 +1,24 @@
+ 
+{
+  "symbol": "SHIT",
+  "address": "0xaa7fb1c8ce6f18d4fd4aabb61a2193d4d441c54f",
+  "overview":{
+        "en": "ShitCoin Is here to provide a pure shitcoin experience for all users. ShitCoin is just an ERC-20 token. No Point. No Innovation. No Problem."
+  },
+  "email": "icarus@shitcoin.fun",
+  "website": "https://shitcoin.fun/",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2019-08-12",
+  "initial_price":{
+        "ETH":"0.000000001 ETH",
+        "USD":"0.00000018 USD",
+        "BTC":"0.000000000017 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ShitCoinFun",
+    "telegram": "https://t.me/OfficialShitCoin",
+    "github": "https://github.com/ShitCoinIcarus/ShitCoin",
+    "reddit": "https://old.reddit.com/r/TheShitCoin/",
+  }
+}
